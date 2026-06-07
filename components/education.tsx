@@ -9,7 +9,6 @@ export default function Education() {
     },
     {
       degree: 'Intermediate',
-      institution: 'Pre-University Education',
       period: '',
       details: 'Score: 85.1%',
       icon: '📚',
